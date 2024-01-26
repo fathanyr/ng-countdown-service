@@ -5,7 +5,7 @@ import { map } from 'rxjs/operators';
 @Injectable({
   providedIn: 'root',
 })
-export class NgCountdownServiceService {
+export class NgCountdownService {
   private countdownSubjects: BehaviorSubject<string>[] = [];
 
   constructor() {}

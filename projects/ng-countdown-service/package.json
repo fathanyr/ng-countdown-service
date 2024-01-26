@@ -1,6 +1,6 @@
 {
   "name": "ng-countdown-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Fathan",
   "license": "MIT",
   "peerDependencies": {
